@@ -1,0 +1,50 @@
+{
+  "name": "modassir/assert",
+  "description": "Assert PHP library for performing assertions, and validations in your code.",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "testunit",
+    "assertion",
+    "tester",
+    "test",
+    "assert",
+    "check",
+    "validate",
+    "phpassert"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Modassir\\Assert\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.2 || ^8.0"
+  },
+  "authors": [
+    {
+      "name": "Shahzada Modassir",
+      "email": "shahzadamodassir@gmail.com",
+      "homepage": "https://github.com/shahzadamodassir"
+    }
+  ],
+  "funding": [
+    {
+      "type": "YouTube",
+      "https": "https://youtube.com/@shahzadamodassir"
+    },
+    {
+      "type": "Patreon",
+      "url": "https://patreon.com/shahzadamodassir"
+    },
+    {
+      "type": "Github",
+      "url": "https://github.com/shahzadamodassir"
+    },
+    {
+      "type": "Opencollective",
+      "url": "https://opencollective.com/shahzadamodassir"
+    }
+  ],
+  "minimum-stability": "stable"
+}
