@@ -1,6 +1,6 @@
 {
   "name": "modassir/assert",
-  "description": "Assert PHP library for performing assertions, and validations in your code.",
+  "description": "Assert PHP library for performing assertions, and validations input/output code.",
   "type": "library",
   "license": "MIT",
   "keywords": [
